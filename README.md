@@ -1,3 +1,9 @@
 # heatmap-exercise
 
-     히트맵 색깔을 모두 볼 수 있도록 만든 예시입니다. 예쁜 색깔 잘 골라 쓰세용!!
+     히트맵 색깔을 모두 볼 수 있도록 만든 예시입니다. 
+     
+![pic](https://github.com/gogoj5896/heatmap-exercise/blob/master/heatmap_1.png)
+![pic](https://github.com/gogoj5896/heatmap-exercise/blob/master/heatmap_2.png)
+![pic](https://github.com/gogoj5896/heatmap-exercise/blob/master/heatmap_3.png)
+![pic](https://github.com/gogoj5896/heatmap-exercise/blob/master/heatmap_4.png)
+
